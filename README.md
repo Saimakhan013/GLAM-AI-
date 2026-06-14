@@ -62,6 +62,7 @@ Face Image
 - Oily
 - Normal
 - Sensitive
+- combination
 
 ## Project Vision
 
